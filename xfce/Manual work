@@ -1,2 +1,4 @@
 sudo cp /usr/lib/sddm/sddm.conf.d/default.conf /etc/sddm.conf
 then edit the file - autologin, theme and cursor
+
+restore numlock in xfce4 settings keyboard
