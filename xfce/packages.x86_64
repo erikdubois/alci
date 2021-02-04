@@ -241,3 +241,11 @@ pavucontrol
 pulseaudio
 pulseaudio-bluetooth
 
+#systemctl enable and start bluetooth.service
+bluez
+blueberry
+
+#systemctl enable and start cups.service
+cups
+system-config-printer
+
