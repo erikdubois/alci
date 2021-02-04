@@ -245,3 +245,41 @@ kde-system-meta
 #gocryptfs
 kate
 kdenetwork-filesharing
+
+#adding more packages as we go
+#chronologically ordered
+
+git
+
+insync
+spotify
+firefox
+vivaldi
+telegram-desktop
+discord
+
+#systemctl enable and start bluetooth.service
+#software already there
+
+yay
+trizen
+paru-bin
+
+#rest is installed
+pulseaudio-bluetooth
+
+#systemctl enable and start cups.service
+#networkprinter
+cups
+system-config-printer
+#systemctl enable and start avahi-daemon.service
+avahi
+
+
+meld
+the_platinum_searcher-bin
+
+variety
+sublime-text-dev
+
+flameshot
